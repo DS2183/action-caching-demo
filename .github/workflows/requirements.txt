@@ -1,3 +1,5 @@
-pandas
-numpy
 fastapi
+uvicorn
+git add requirements.txt
+git commit -m "Add requirements.txt for CI workflow"
+git push origin main
